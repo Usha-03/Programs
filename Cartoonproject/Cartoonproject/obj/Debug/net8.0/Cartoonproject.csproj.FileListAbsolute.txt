@@ -1,0 +1,14 @@
+C:\Usha\Cartoonproject\Cartoonproject\bin\Debug\net8.0\Cartoonproject.exe
+C:\Usha\Cartoonproject\Cartoonproject\bin\Debug\net8.0\Cartoonproject.deps.json
+C:\Usha\Cartoonproject\Cartoonproject\bin\Debug\net8.0\Cartoonproject.runtimeconfig.json
+C:\Usha\Cartoonproject\Cartoonproject\bin\Debug\net8.0\Cartoonproject.dll
+C:\Usha\Cartoonproject\Cartoonproject\bin\Debug\net8.0\Cartoonproject.pdb
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.AssemblyInfoInputs.cache
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.AssemblyInfo.cs
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.csproj.CoreCompileInputs.cache
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.dll
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\refint\Cartoonproject.dll
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.pdb
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\Cartoonproject.genruntimeconfig.cache
+C:\Usha\Cartoonproject\Cartoonproject\obj\Debug\net8.0\ref\Cartoonproject.dll
