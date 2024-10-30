@@ -1,0 +1,14 @@
+C:\Usha\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.exe
+C:\Usha\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.deps.json
+C:\Usha\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.runtimeconfig.json
+C:\Usha\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.dll
+C:\Usha\EmployeeDesignation\EmployeeDesignation\bin\Debug\net8.0\EmployeeDesignation.pdb
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.AssemblyInfoInputs.cache
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.AssemblyInfo.cs
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.csproj.CoreCompileInputs.cache
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.dll
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\refint\EmployeeDesignation.dll
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.pdb
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\EmployeeDesignation.genruntimeconfig.cache
+C:\Usha\EmployeeDesignation\EmployeeDesignation\obj\Debug\net8.0\ref\EmployeeDesignation.dll
